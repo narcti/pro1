@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "e80cfb09ee8df7f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab793961d6605fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0be8019669a43f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260103/implement1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "implement1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19c504425ba11668",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbcc8fee09c90792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "648229fef45b0935",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49937bfaee79b3db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77e645250c613fe2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a21a4d17d8a60fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "55fcaa3989f5fb26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30817e32e738dd89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20260103/implement1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for implement1"
+            }
+          },
+          {
+            "id": "e1e980cea9204128",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20260103/implement1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from implement1"
+            }
+          },
+          {
+            "id": "f625ab08d5d350cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ebce8a99bf750dba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1a98ebd811105023",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20260103/implement1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of implement1"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0be8019669a43f38",
+  "lastOpenFiles": [
+    "my-project/apps/api/dist/tsconfig.build.tsbuildinfo",
+    "my-project/apps/api/dist/main.js.map",
+    "my-project/apps/api/dist/main.js",
+    "my-project/apps/api/dist/main.d.ts",
+    "my-project/apps/api/dist/app.service.js.map",
+    "my-project/apps/api/dist/app.service.js",
+    "my-project/apps/api/dist/app.service.d.ts",
+    "my-project/apps/api/dist/app.module.js.map",
+    "my-project/apps/api/dist/app.module.js",
+    "my-project/apps/api/dist/app.module.d.ts",
+    "my-project/apps/api/dist/app.controller.js.map",
+    "my-project/node_modules/concurrently/node_modules/supports-color/readme.md",
+    "my-project/node_modules/concurrently/docs/cli/terminating.md",
+    "my-project/node_modules/concurrently/docs/cli/success.md",
+    "my-project/node_modules/concurrently/docs/cli/shortcuts.md",
+    "my-project/node_modules/concurrently/docs/cli/restarting.md",
+    "my-project/node_modules/concurrently/docs/cli/prefixing.md",
+    "my-project/node_modules/concurrently/docs/cli/passthrough-arguments.md",
+    "my-project/node_modules/concurrently/docs/cli/output-control.md",
+    "my-project/node_modules/concurrently/docs/cli/configuration.md",
+    "my-project/node_modules/concurrently/docs/cli/input-handling.md",
+    "my-project/node_modules/concurrently/docs/README.md",
+    "my-project/node_modules/concurrently/docs/demo.gif",
+    "my-project/node_modules/concurrently/README.md",
+    "my-project/node_modules/tree-kill/README.md",
+    "my-project/node_modules/shell-quote/security.md",
+    "my-project/node_modules/shell-quote/README.md",
+    "my-project/node_modules/rimraf/node_modules/glob/README.md",
+    "my-project/node_modules/rimraf/README.md",
+    "my-project/node_modules/rimraf/CHANGELOG.md",
+    "my-project/node_modules/@rushstack/eslint-patch/README.md",
+    "my-project/node_modules/@rushstack/eslint-patch/CHANGELOG.md",
+    "my-project/apps/web/node_modules/next/dist/compiled/@babel/runtime/README.md",
+    "my-project/apps/web/node_modules/tailwindcss/src/postcss-plugins/nesting/README.md",
+    "my-project/apps/web/node_modules/tailwindcss/lib/postcss-plugins/nesting/README.md",
+    "my-project/apps/web/node_modules/next/dist/compiled/regenerator-runtime/README.md",
+    "my-project/apps/web/node_modules/next/dist/compiled/react-refresh/README.md",
+    "my-project/node_modules/@jest/reporters/assets/jest_logo.png",
+    "my-project/node_modules/tsconfig-paths-webpack-plugin/coverage/lcov-report/sort-arrow-sprite.png",
+    "my-project/node_modules/tsconfig-paths-webpack-plugin/coverage/lcov-report/favicon.png",
+    "my-project/node_modules/istanbul-reports/lib/html/assets/sort-arrow-sprite.png",
+    "my-project/node_modules/istanbul-reports/lib/html/assets/favicon.png",
+    "my-project/node_modules/istanbul-reports/lib/html-spa/assets/sort-arrow-sprite.png",
+    "my-project/apps/web/public/window.svg",
+    "my-project/apps/web/public/vercel.svg",
+    "my-project/apps/web/public/next.svg"
+  ]
+}
